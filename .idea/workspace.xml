@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="10cd47be-516d-43d6-9179-a0cd900bb564" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXTgELiAXZxG2uFv0W0NxP7sdv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\uesle\IdeaProjects\ninjaplus\src\main\resources\sql" />
+      <recent name="C:\Users\uesle\IdeaProjects\ninjaplus\src\main\resources\cover" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.tests">
+    <configuration name="LoginTests.shouldSeeLoggedUser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTests" />
+      <option name="METHOD_NAME" value="shouldSeeLoggedUser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldRegisterANewMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldRegisterANewMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldRegisterANewMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldRegisterANewMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldRegisterANewMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldSearchOneMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldSearchOneMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MovieTests.shouldSearchTwoMovie" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.MovieTests" />
+      <option name="METHOD_NAME" value="shouldSearchTwoMovie" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ninjaplus" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.tests" />
+        <item itemvalue="TestNG.LoginTests.shouldSeeLoggedUser" />
+        <item itemvalue="TestNG.MovieTests" />
+        <item itemvalue="TestNG.MovieTests.shouldSearchTwoMovie" />
+        <item itemvalue="TestNG.MovieTests.shouldSearchOneMovie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10cd47be-516d-43d6-9179-a0cd900bb564" name="Default Changelist" comment="" />
+      <created>1584984548229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584984548229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2229" y="273" key="#xdebugger.XInspectDialog" timestamp="1585778411378">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2229" y="273" key="#xdebugger.XInspectDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585778411378" />
+    <state width="424" height="466" key="DebuggerActiveHint" timestamp="1585778391439">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="424" height="466" key="DebuggerActiveHint/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585778391439" />
+    <state width="1323" height="288" key="GridCell.Tab.0.bottom" timestamp="1585927284900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585927284900" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585924211520" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1323" height="288" key="GridCell.Tab.0.center" timestamp="1585927284900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585927284900" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585924211520" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1323" height="288" key="GridCell.Tab.0.left" timestamp="1585927284900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585927284900" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585924211519" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1323" height="288" key="GridCell.Tab.0.right" timestamp="1585927284900">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="288" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585927284900" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585924211520" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1877" height="222" key="GridCell.Tab.1.bottom" timestamp="1585875998321">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585697282078" />
+    <state width="1877" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585875998321" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1877" height="222" key="GridCell.Tab.1.center" timestamp="1585875998321">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585697282078" />
+    <state width="1877" height="222" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585875998321" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1877" height="222" key="GridCell.Tab.1.left" timestamp="1585875998321">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585697282078" />
+    <state width="1877" height="222" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585875998321" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state width="1877" height="222" key="GridCell.Tab.1.right" timestamp="1585875998321">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="222" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585697282078" />
+    <state width="1877" height="222" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585875998321" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585246791714" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585924061758">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-155.1920.1040/-1366.1.1366.728@0.0.1366.728" timestamp="1584984552214" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1585315966363" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585924061758" />
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585774291911" />
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1585777045244">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1585777045244" />
+  </component>
+</project>

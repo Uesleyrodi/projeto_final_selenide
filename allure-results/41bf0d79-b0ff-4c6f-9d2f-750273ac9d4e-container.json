@@ -1,0 +1,1 @@
+{"uuid":"41bf0d79-b0ff-4c6f-9d2f-750273ac9d4e","name":"Default Suite","children":["bc6c5d40-503d-4b8d-996e-aa2496af833e"],"befores":[{"name":"delorean","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1585924063993,"stop":1585924064542}],"afters":[],"links":[],"start":1585924063909,"stop":1585924117500}
